@@ -1,0 +1,190 @@
+=== January, 05|02:25 AM === 
+Buyer name: christian
+
+ORDERS: 
+- 1 SAMSUNG A50 | 15000 ₱
+- 3 IPHONE 12 256 GB | 24000 ₱
+- 2 Gengar Pokemon T- Shirt | 800 ₱
+
+subtotal: 88600.0 ₱
+vat: 10632.0 ₱
+shipping fee: 4430.0 ₱
+total: 103662.0 ₱
+
+=== January, 05|02:12 AM === 
+Buyer name: admin
+
+ORDERS: 
+- 3 IPHONE 12 256 GB | 24000 ₱
+- 2 DBTK T-Shirt | 1000 ₱
+- 3 DBTK ENDEAVOR | 5000 ₱
+
+subtotal: 89000.0 ₱
+vat: 10680.0 ₱
+shipping fee: 4450.0 ₱
+total: 104130.0 ₱
+
+=== June, 27|04:24 pm === 
+Buyer name: user123@test.com
+
+ORDERS: 
+- 4 MAC BOOK | 25000 ₱
+
+subtotal: 100000.0 ₱
+vat: 12000.0 ₱
+shipping fee: 5000.0 ₱
+total: 117000.0 ₱
+
+=== June, 27|04:20 pm === 
+Buyer name: user456@test.com
+
+ORDERS: 
+- 1 IPHONE 12 256 GB | 24000 ₱
+- 2 Nike Pegasus | 5000 ₱
+
+subtotal: 34000.0 ₱
+vat: 4080.0 ₱
+shipping fee: 1700.0 ₱
+total: 39780.0 ₱
+
+=== June, 27|04:16 pm === 
+Buyer name: user123@test.com
+
+ORDERS: 
+- 1 IPHONE 12 256 GB | 24000 ₱
+- 2 Nike Pegasus | 5000 ₱
+
+subtotal: 34000.0 ₱
+vat: 4080.0 ₱
+shipping fee: 1700.0 ₱
+total: 39780.0 ₱
+
+=== June, 23|02:14 pm === 
+Buyer name: ralphedejer
+
+ORDERS: 
+- 2311 orange sweater2 | 1005 ₱
+
+subtotal: 2322555.0 ₱
+vat: 278706.6 ₱
+shipping fee: 116127.75 ₱
+total: 2717389.35 ₱
+
+=== June, 23|02:13 pm === 
+Buyer name: ralphedejer
+
+ORDERS: 
+- 1000000000 orange sweater2 | 1005 ₱
+- 10000000 DBTK T-Shirt | 1000 ₱
+- 100000 Pokemon Polo | 900 ₱
+- 100000 Violet 5 T-Shirt | 809 ₱
+
+subtotal: 1.558618144E9 ₱
+vat: 1.8703417728E8 ₱
+shipping fee: 7.79309072E7 ₱
+total: 1.82358322848E9 ₱
+
+=== June, 23|01:29 pm === 
+Buyer name: ralphedejer
+
+ORDERS: 
+- 3 charmander T-shirt | 1500 ₱
+- 1 Pokemon T-Shirt Snorlax | 8000 ₱
+- 2 pikachu T-shirt | 1500 ₱
+- 6 Bulbasaur T-Shirt | 7000 ₱
+
+subtotal: 57500.0 ₱
+vat: 6900.0 ₱
+shipping fee: 2875.0 ₱
+total: 67275.0 ₱
+
+=== June, 23|01:24 pm === 
+Buyer name: chan123
+
+ORDERS: 
+- 1 DBTK sweater | 700 ₱
+
+subtotal: 700.0 ₱
+vat: 84.0 ₱
+shipping fee: 35.0 ₱
+total: 819.0 ₱
+
+=== June, 23|01:12 pm === 
+Buyer name: chan123
+
+ORDERS: 
+- 3 Bulbasaur T-Shirt | 7000 ₱
+
+subtotal: 21000.0 ₱
+vat: 2520.0 ₱
+shipping fee: 1050.0 ₱
+total: 24570.0 ₱
+
+=== June, 23|01:05 pm === 
+Buyer name: chan123
+
+ORDERS: 
+- 1 Bulbasaur T-Shirt | 7000 ₱
+
+subtotal: 7000.0 ₱
+vat: 840.0 ₱
+shipping fee: 350.0 ₱
+total: 8190.0 ₱
+
+=== June, 23|11:34 am === 
+Buyer name: chan123
+
+ORDERS: 
+- 1 charmander T-shirt | 1500 ₱
+
+subtotal: 1500.0 ₱
+vat: 180.0 ₱
+shipping fee: 75.0 ₱
+total: 1755.0 ₱
+
+=== June, 22|03:15 pm === 
+Buyer name: ralphedejer
+
+ORDERS: 
+- 4 DBTK T-Shirt | 1000 ₱
+
+subtotal: 4000.0 ₱
+vat: 480.0 ₱
+shipping fee: 200.0 ₱
+total: 4680.0 ₱
+
+=== June, 17|02:17 pm === 
+Buyer name: chan123
+
+ORDERS: 
+- 1 charmander T-shirttt | 1500 ₱
+- 1 charmander T-shirt | 1500 ₱
+- 1 Bulbasaur T-Shirt | 7000 ₱
+
+subtotal: 10000.0 ₱
+vat: 1200.0 ₱
+shipping fee: 500.0 ₱
+total: 11700.0 ₱
+
+=== June, 17|01:41 PM === 
+Buyer name: admin
+
+ORDERS: 
+- 5 DBTK T-Shirt | 1000 ₱
+
+subtotal: 1000.0 ₱
+vat: 120.0 ₱
+shipping fee: 50.0 ₱
+total: 1170.0 ₱
+
+=== June, 17|01:41 PM === 
+Buyer name: admin
+
+ORDERS: 
+- 2 charmander T-shirt | 1500 ₱
+
+subtotal: 1500.0 ₱
+vat: 180.0 ₱
+shipping fee: 75.0 ₱
+total: 1755.0 ₱
+

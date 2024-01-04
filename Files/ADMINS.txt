@@ -1,0 +1,2 @@
+username:chan|password:123
+username:admindaw|password:1234

@@ -1,0 +1,8 @@
+username:admin|password:admin
+username:chan123|password:123
+username:ralphedejer|password:edejer222
+username:pogi|password:pogi
+username:christiansug@gmail.com|password:123456
+username:user123@test.com|password:SecurePassword123
+username:user456@test.com|password:Secure@Password456
+username:christian|password:123
